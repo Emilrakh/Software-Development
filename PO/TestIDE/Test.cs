@@ -35,5 +35,28 @@ namespace TestIDE
             Assert.AreEqual(expectation, result);
         }
         
+        [Test]
+        public void diagonalTest()
+        {
+            double expectation = 11.180339887498949d;
+            double result = rectangle.getDiagonal();
+            Assert.AreEqual(expectation, result);
+        }
+        
+        [Test]
+        public void radiusTest()
+        {
+            double expectation = 5.5901699437494745d;
+            double result = rectangle.circleRadius();
+            Assert.AreEqual(expectation, result);
+        }
+        
+        [Test]
+        public void angelTest()
+        {
+            double expectation = 0.43245483895386999d;
+            double result = rectangle.angelBetween();
+            Assert.AreEqual(expectation, result);
+        }
     }
 }
