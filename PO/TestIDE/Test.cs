@@ -35,5 +35,12 @@ namespace TestIDE
             Assert.AreEqual(expectation, result);
         }
         
+        [Test]
+        public void diagonalTest()
+        {
+            double expectation = 11.180339887498949d;
+            double result = rectangle.getDiagonal();
+            Assert.AreEqual(expectation, result);
+        }
     }
 }
