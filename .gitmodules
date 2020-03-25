@@ -1,3 +1,6 @@
 [submodule "Software-Development-Methods"]
 	path = Software-Development-Methods
 	url = https://github.com/bernschrodr/Software-Development-Methods.git
+[submodule "Software"]
+	path = Software
+	url = https://github.com/WildOne2802/Software.git
