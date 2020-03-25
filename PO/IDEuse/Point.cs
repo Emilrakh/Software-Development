@@ -16,10 +16,10 @@ namespace IDEuse
         /// </summary>
         public double y { get; }
         
-        public Point(double  X, double Y)
+        public Point(double  _x, double _y)
         {
-            x = X;
-            y = Y;
+            x = _x;
+            y = _y;
         }
         
         public static double getDistance(Point first,Point second)
