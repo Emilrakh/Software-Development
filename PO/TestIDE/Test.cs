@@ -50,5 +50,13 @@ namespace TestIDE
             double result = rectangle.circleRadius();
             Assert.AreEqual(expectation, result);
         }
+        
+        [Test]
+        public void angelTest()
+        {
+            double expectation = 0.43245483895386999d;
+            double result = rectangle.angelBetween();
+            Assert.AreEqual(expectation, result);
+        }
     }
 }
