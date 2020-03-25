@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6e4ff1e-7974-41ab-b3f1-b42d5e810136" name="Default Changelist" comment="" />
+    <list default="true" id="d6e4ff1e-7974-41ab-b3f1-b42d5e810136" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/IDEuse/Rectangle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/IDEuse/Rectangle.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDEuse/Square.cs" beforeDir="false" afterPath="$PROJECT_DIR$/IDEuse/Square.cs" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,10 +43,10 @@
         <option value="$PROJECT_DIR$/IDEuse/Rectangle2.cs" />
         <option value="$PROJECT_DIR$/IDEuse/Program.cs" />
         <option value="$PROJECT_DIR$/IDEuse/HotKeys" />
-        <option value="$PROJECT_DIR$/IDEuse/Rectangle.cs" />
-        <option value="$PROJECT_DIR$/IDEuse/Point.cs" />
-        <option value="$PROJECT_DIR$/IDEuse/Square.cs" />
         <option value="$PROJECT_DIR$/TestIDE/Test.cs" />
+        <option value="$PROJECT_DIR$/IDEuse/Point.cs" />
+        <option value="$PROJECT_DIR$/IDEuse/Rectangle.cs" />
+        <option value="$PROJECT_DIR$/IDEuse/Square.cs" />
       </list>
     </option>
   </component>

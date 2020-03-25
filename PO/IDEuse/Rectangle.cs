@@ -12,12 +12,12 @@ namespace IDEuse
         private double height => Point.getDistance(A, B);
         private double width => Point.getDistance(A, D);
         
-        public Rectangle(Point a, Point b, Point c, Point d)
+        public Rectangle(Point _A, Point _B, Point _C, Point _D)
         {
-            A = a;
-            B = b;
-            C = c;
-            D = d;
+            A = _A;
+            B = _B;
+            C = _C;
+            D = _D;
         }
 
         public double getPerimeter() => 2.0 * (height + width);

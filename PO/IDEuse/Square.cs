@@ -11,12 +11,12 @@ namespace IDEuse
 
         private double side => Point.getDistance(A, B);
         
-        public Square(Point a, Point b, Point c, Point d)
+        public Square(Point _A, Point _B, Point _C, Point _D)
         {
-            A = a;
-            B = b;
-            C = c;
-            D = d;
+            A = _A;
+            B = _B;
+            C = _C;
+            D = _D;
         }
         
         public double getPerimeter() => 4.0 * side;
