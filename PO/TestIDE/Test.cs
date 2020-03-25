@@ -22,7 +22,7 @@ namespace TestIDE
         [Test]
         public void AreaTest()
         {
-            double expectation = 50;
+            double expectation = 60;
             double result = rectangle.getSquare();
             Assert.AreEqual(expectation, result);
         }
