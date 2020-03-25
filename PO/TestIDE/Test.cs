@@ -42,5 +42,13 @@ namespace TestIDE
             double result = rectangle.getDiagonal();
             Assert.AreEqual(expectation, result);
         }
+        
+        [Test]
+        public void radiusTest()
+        {
+            double expectation = 5.5901699437494745d;
+            double result = rectangle.circleRadius();
+            Assert.AreEqual(expectation, result);
+        }
     }
 }
