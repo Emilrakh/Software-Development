@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d6e4ff1e-7974-41ab-b3f1-b42d5e810136" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PO/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestIDE/bin/Debug/netcoreapp2.1/nunit_random_seed.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/TestIDE/bin/Debug/netcoreapp2.1/nunit_random_seed.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestIDE/obj/Debug/netcoreapp2.1/TestIDE.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestIDE/obj/Debug/netcoreapp2.1/TestIDE.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +77,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected=".NET Project.Default">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/IDEuse/bin/Debug/netcoreapp2.1/IDEuse.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -116,6 +118,8 @@
       <workItem from="1582797388896" duration="158000" />
       <workItem from="1582799099968" duration="1174000" />
       <workItem from="1585161348891" duration="1685000" />
+      <workItem from="1590580621676" duration="17000" />
+      <workItem from="1590580722324" duration="489000" />
     </task>
     <servers />
   </component>
