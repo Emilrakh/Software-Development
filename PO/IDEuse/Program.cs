@@ -22,6 +22,7 @@ namespace IDEuse
             Console.WriteLine("Square: " + square.getSquare());
             Console.WriteLine("Diagonal: " + square.getDiagonal());
             Console.WriteLine("Circle radius: " + square.circleRadius());
+            
             var sq1 = new Square(new Point(12, 13), new Point(14, 16), new Point(18, 18), new Point(18, 19));
             var wRectangle = new Rectangle(new Point(12, 14), new Point(151, 17), new Point(18, 18), new Point(17, 17));
             
